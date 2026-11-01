@@ -1,0 +1,17 @@
+[
+    {
+      "type": "SAUCE",
+      "name": "Chili",
+      "price": 2.5
+    },
+    {
+      "type": "FILLING",
+      "name": "Cheese",
+      "price": 5.0
+    },
+    {
+      "type": "SAUCE",
+      "name": "Sour cream",
+      "price": 0.0
+    }
+]
