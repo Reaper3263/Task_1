@@ -1,0 +1,12 @@
+[
+  {
+    "case_name": "Бургер с котлетой и кетчупом",
+    "bun": {"name": "Бриошь", "price": 10.0},
+    "ingredients": [
+      {"type": "filling", "name": "Котлета", "price": 15.0},
+      {"type": "sauce", "name": "Кетчуп", "price": 2.5}
+    ],
+    "expected_price": 37.5,
+    "expected_receipt": "(==== Бриошь ====)\n= filling Котлета =\n= sauce Кетчуп =\n(==== Бриошь ====)\n\nPrice: 37.5"
+  }
+]
